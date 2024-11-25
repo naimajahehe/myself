@@ -1,4 +1,3 @@
 # myself
-about myself
 
-code of javascript
+random code of javascript
